@@ -13,7 +13,7 @@ superuser: true
 role: Postgraduate
 
 # Organizations/Affiliations
-organizations: Automotive Engineering Institute
+organizations: 
 - name: Dalian University of Technology
   url: "www.dlut.edu.cn"
 
