@@ -63,4 +63,3 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news
     Dongdong is awarded **President Award, Chinese Academy of Sciences**,
     the highest award for graduate students of Chinese Academy of Sciences.
 
-+++
