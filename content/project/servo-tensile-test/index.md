@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: servo tensile test
+title: Servo Tensile Test
 summary: "Analyse the servo tensile test parameters with experiments and artificial neural networks."
 tags:
-- servo tensile test
+- Servo Tensile Test
 categories: []
 date: 2019-012-26T00:00:00
 weight: 1
