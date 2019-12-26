@@ -1,14 +1,17 @@
 ---
-title = "Effects of Servo Tensile Test Parameters on Mechanical Properties of Medium-Mn Steel"
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "The Generic Mapping Tools version 6"
 authors:
-- "**Xuemin Chi**"
-- Shuo han
-date: 2019-10-28T00:00:00
-doi: 10.3390/ma12223793
-
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Wenyuan Fan", "S. Shawn Wei", "**Dongdong Tian**", "Jeffrey J. McGuire", "Douglas A. Wiens"]
-
+- P. Wessel
+- J. F. Luis
+- L. Uieda
+- R. Scharroo
+- F. Wobbe
+- W. H. F. Smith
+- "**D. Tian**"
+date: 2019-11-01T00:00:00
+doi: 10.1029/2019GC008515
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,22 +20,23 @@ authors = ["Wenyuan Fan", "S. Shawn Wei", "**Dongdong Tian**", "Jeffrey J. McGui
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Materials*"
+publication: "Geochemistry, Geophysics, Geosystems"
 publication_short: ""
 
-# Abstract.
-abstract: "As a new type of third-generation automotive steel with high strength and plasticity, medium-Mn steel (MMnS)
-has been widely used in automotive industries for its excellent properties. In recent years, servo stamping technology
-for high-strength metal forming is a hot topic due to its good performance in forming under complex
-processing conditions, and servo parameters determine the forming quality. In this paper, experiments considering 
-tensile speed and position where speed changes (PSC) were carried out on MMnS to investigate the influences of 
-tensile parameters on mechanical properties including strength and total elongation (TE). The results show that PSC
-does not significantly impact total elongation. Initial tensile speed (ITS) and final tensile speed (FTS) significantly
-impact the total elongation. The interaction between all tensile parameters can impact total elongation. Two artificial
-neuralnetworks, back propagation neural network (BPNN) and radial basis function neural network (RBFNN), were used to
-establish analytical models. The results of supplemental experiment and residual analysis were conducted to verify the
-accuracy of the analytical models. The BPNN has a better performance and the analytical model shows that with the
-increase of PSC, it has a slight impact on the changes of optimal and minimum total elongation, but the combinations of tensile parameters to obtain total elongations higher than 40% change significantly. 
+abstract: "
+The Generic Mapping Tools (GMT) software is ubiquitous in the Earth and ocean sciences.
+As a cross‐platform tool producing high‐quality maps and figures, it is used by tens of
+thousands of scientists around the world. The basic syntax of GMT scripts has evolved
+very slowly since the 1990s, despite the fact that GMT is generally perceived to have
+a steep learning curve with many pitfalls for beginners and experienced users alike.
+Reducing these pitfalls means changing the interface, which would break compatibility
+with thousands of existing scripts. With the latest GMT version 6, we solve this conundrum
+by introducing a new “modern mode” to complement the interface used in previous versions,
+which GMT 6 now calls “classic mode.” GMT 6 defaults to classic mode and thus is
+a recommended upgrade for all GMT 5 users. Nonetheless, new users should take advantage
+of modern mode to make shorter scripts, quickly access commonly used global data sets,
+and take full advantage of the new tools to draw subplots, place insets, and create animations.
+"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -43,9 +47,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: ""
-  url: 
+# links:
+# - name: Follow
+#   url: https://twitter.com
+#   icon_pack: fab
+#   icon: twitter
 
 url_pdf:
 url_code:
