@@ -3,9 +3,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Projects"
+title = "Researches"
 subtitle = ""
 
 [content]
@@ -21,18 +21,22 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+      name = "All"
+      tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Servo Tensile Test"
+     tag = "Servo Tensile Test"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Self-driving Cars"
+     tag = "Self-driving Cars"
 
+   [[content.filter_button]]
+     name = "Control Theory"
+     tag = "Control theory"
+     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
@@ -42,7 +46,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -66,7 +70,11 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  #padding = ["20px", "0", "20px", "0"]
+
 [advanced]
  # Custom CSS. 
  css_style = ""
