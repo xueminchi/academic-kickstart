@@ -10,20 +10,21 @@ authors:renaomin
 superuser: true
 
 # Role/position
-role: student/master
+role: postgraduate
 
 # Organizations/Affiliations
-organizations: Dalian University of Technology
-- name: Stanford University
+organizations: Automotive Engineering Institute
+- name: Dalian University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include self-driving cars, Model predictive control and Robust control.
+bio: Chi was born in China on March 26, 1994. He received his master's degree in vehicle engineering in 2019 from the Dalian University of technology. His work focus on the motion control of self-driving cars, model predictive control and robust control. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Self-driving cars
+- Model predictive control
+- Adaptive control and robust control
+- Path planning and following
 
 education:
   courses:
