@@ -18,7 +18,7 @@ organizations:
   url: "www.dlut.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a vehicle engineer.
+bio: I'm a M.D. majoring vehicle engineering.
 
 interests:
 - Self-driving cars
@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '43069408@qq.com'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+# icon_pack: fab
+# link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -66,10 +66,10 @@ email: "43069408@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
----
+# user_groups:
+# - Researchers
+# - Visitors
+ ---
 
 I am currently a PhD student in Control science and engineering at Zhejiang University.
 
