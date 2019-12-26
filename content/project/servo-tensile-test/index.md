@@ -1,9 +1,9 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: 
 
 title: Servo Tensile Test
 summary: "Analyse the servo tensile test parameters with experiments and artificial neural networks."
-tags:
+tags: 
 - Servo Tensile Test
 categories: []
 date: 2019-012-26T00:00:00
@@ -16,14 +16,14 @@ external_link: ""
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
+image: 
   caption: ""
   focal_point: ""
   preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
+# links: 
 # - name: Follow
 #   url: https://twitter.com
 #   icon_pack: fab
