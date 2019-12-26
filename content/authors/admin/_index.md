@@ -14,8 +14,8 @@ role: Postgraduate
 
 # Organizations/Affiliations
 organizations: 
-- name: Dalian University of Technology
-  url: "www.dlut.edu.cn"
+- name: Zhejiang University
+  url: "http://www.zju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a M.D. majoring vehicle engineering.
