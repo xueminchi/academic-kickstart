@@ -3,22 +3,22 @@
 name: Xuemin Chi
 
 # Username (this should match the folder name)
-authors:admin
+authors:
 - admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: postgraduate
+role: Postgraduate
 
 # Organizations/Affiliations
 organizations: Automotive Engineering Institute
 - name: Dalian University of Technology
-  url: ""
+  url: "www.dlut.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Chi was born in China on March 26, 1994. He received his master's degree in vehicle engineering in 2019 from the Dalian University of technology. His work focus on the motion control of self-driving cars, model predictive control and robust control. 
+bio: I'm a vehicle engineer.
 
 interests:
 - Self-driving cars
@@ -71,6 +71,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD student in Control science and engineering at Zhejiang University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am passion about contributing to a further understanding of algorithms of path planning and following of self-driving cars and control strategies of adaptive and robust control.
+
