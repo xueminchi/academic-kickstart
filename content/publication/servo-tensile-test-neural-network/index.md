@@ -1,17 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Generic Mapping Tools version 6"
+title: "Effects of Servo Tensile Test Parameters on Mechanical Properties of Medium-Mn Steel"
 authors:
-- P. Wessel
-- J. F. Luis
-- L. Uieda
-- R. Scharroo
-- F. Wobbe
-- W. H. F. Smith
-- "**D. Tian**"
-date: 2019-11-01T00:00:00
-doi: 10.1029/2019GC008515
+- "**Xuemin Chi**"
+- Shuo han
+date: 2019-10-28T00:00:00
+doi: 10.3390/ma12223793
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +15,7 @@ doi: 10.1029/2019GC008515
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Geochemistry, Geophysics, Geosystems"
+publication: "Materials"
 publication_short: ""
 
 abstract: "
