@@ -4,7 +4,7 @@
 title: "Effects of Servo Tensile Test Parameters on Mechanical Properties of Medium-Mn Steel"
 authors:
 - "**Xuemin Chi**"
-- Shuo han
+- Shuo Han
 date: 2019-10-28T00:00:00
 doi: 10.3390/ma12223793
 
