@@ -51,6 +51,5 @@ important for our understanding of the thermo-compositional state of the Earth's
 
 ## Results of experiment and neural networks
 
-{{< figure src="results.jpg" numbered="true" alt="Results of experiment and neural networks" title="Experimental
-procedure and results and Prediction of optimum parameters."
+{{< figure src="results.jpg" numbered="true" alt="Results of experiment and neural networks" title="Experimental procedure and results and Prediction of optimum parameters."
 
