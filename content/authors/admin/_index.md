@@ -3,7 +3,7 @@
 name: Xuemin Chi
 
 # Username (this should match the folder name)
-authors:renaomin
+authors:admin
 - admin
 
 # Is this the primary user of the site?
