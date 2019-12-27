@@ -47,19 +47,8 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news
  css_class = ""
 +++
 
--   **Jul. 29 - Aug. 2, 2019**
-    Dongdong particated the GMT Developer's Summit at Scripps Institution of
-    Oceanography, La Jolla, USA.
+-   **Dec. 27, 2019 - Jan. 27, 2020**
+    Xuemin is preparing the test of operational research at home.
 
--   **Jul. 22-23, 2019**
-    Dongdong served as an instructor for the the 2019 UNAVCO Short Course
-    “The Generic Mapping Tools for Geodesy”, at Scripps Institution of Oceanography,
-    La Jolla, USA.
-
--   **Dec. 18, 2018**
-    Dongdong joined the core developer team of the Generic Mapping Tools (GMT).
-
--   **Oct. 1, 2018**:
-    Dongdong is awarded **President Award, Chinese Academy of Sciences**,
-    the highest award for graduate students of Chinese Academy of Sciences.
-
+-   **Dec. 24, 2019**:
+    Xuemin created the unique academic website!
