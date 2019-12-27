@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 
 title = "Recent News"
-subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news)"
+subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/news)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
