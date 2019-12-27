@@ -1,7 +1,7 @@
 ---
 title: "Recent News"
-date: 2018-01-08T00:00:00
-lastmod: 2018-08-01T00:00:00
+date: 2019-12-27T00:00:00
+lastmod: 2019-12-27T00:00:00
 
 
 # Featured image
