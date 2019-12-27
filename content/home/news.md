@@ -52,3 +52,7 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~tiandong/news
 
 -   **Dec. 24, 2019**:
     Xuemin created the unique academic website!
+    
+-   **Oct. 28, 2019**:
+    Our research in Medium-Mn steel reveals that the optimum tensile test parameters such as tensile speed and the position 
+    where speed changes can be found through BPNN and RBFNN. [This paper] is now available on [Materials](). 
