@@ -13,60 +13,14 @@ image:
   preview_only: false
 ---
 
--   **Jul. 29 - Aug. 2, 2019**:
-    Dongdong particated the GMT Developer's Summit at Scripps Institution of
-    Oceanography, La Jolla, USA.
+-   **Dec. 27, 2019 - Jan. 27, 2020**
+    Xuemin is preparing the test of operational research at home.
 
--   **Jul. 22-23, 2019**:
-    Dongdong served as an instructor for the the 2019 UNAVCO Short Course
-    “The Generic Mapping Tools for Geodesy”, at Scripps Institution of Oceanography,
-    La Jolla, USA.
-
--   **Dec. 18, 2018**:
-    Dongdong joined the core developer team of the Generic Mapping Tools (GMT).
-
--   **Oct. 1, 2018**:
-    Dongdong Tian is awarded **President Award, Chinese Academy of Sciences**,
-    the highest award for graduate students of Chinese Academy of Sciences.
-
--   **Sep. 12, 2018**:
-    Our two papers about the seismic characteristics of North Korea's September 2017
-    nuclear test and its triggered aftershock sequences are published online
-    by Seismological Research Letters.
-
--   **Aug. 1, 2018**:
-    Dongdong Tian has been officially hired as a postdoctoral Research Associate by Department of
-    Earth and Environmental Sciences, Michigan State University.
-
--   **June 21, 2018**:
-    Dongdong Tian has been admitted to the degree of **Doctor of Natural Science in Geophysics**.
-
--   **May 28, 2018**:
-    Dongdong Tian has sucessfully defended his Ph.D. thesis.
-
--   **Apr. 27, 2018**:
-    Our seismic analysis reveals that North Korea's 3 September 2017 nuclear test
-    has resulted in an on-site collapse toward the nuclear test center, and
-    possibly triggered an earthquake swarm ~8.4 km north of the test site.
-    [This paper]({{< ref "/publication/north-korea-nuclear-test-2017-collapse/index.md" >}})
-    is now available on
-    [Geophysical Research Letters](https://doi.org/10.1029/2018GL077649).
-
--   **Mar. 12, 2018**:
-    Dongdong Tian is awarded the **Outstanding Graduate Student Award**
-    from University of Science and Technology of China.
-
--   **Nov. 30, 2017**:
-    Dongdong Tian is awarded the **2017 CGU Outstanding Student Paper Award**
-    for his presentation at the 2017 CGU annual meeting.
-
--   **Nov. 20, 2017**:
-    Dongdong Tian is awarded **the National Scholarship for Doctoral Students**
-    from the Ministry of Education, China.
-
--   **Aug. 1, 2017**:
-    We present the first seismological evidence for a localized mushy zone
-    across the Earth's inner core boundary beneath southwest Okhotsk Sea.
-    [This paper]({{< ref "/publication/mushy-inner-core-boundary/index.md" >}})
-    is now available on
-    [*Nature Communications*](https://doi.org/10.1038/s41467-017-00229-9).
+-   **Dec. 24, 2019**:
+    Xuemin created the unique academic website!
+    
+-   **Oct. 28, 2019**:
+    Our research in Medium-Mn steel reveals that the optimum tensile test parameters
+    such as tensile speed and the position where speed changes can be found through
+    BPNN and RBFNN. [This paper]({{< ref "/publication/servo-tensile-test-neural-network/index.md" >}})
+    is now available on [Materials](https://www.mdpi.com/1996-1944/12/22/3793). 
