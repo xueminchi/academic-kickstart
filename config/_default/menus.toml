@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Researches"
-  url = "#Researches"
+  url = "#researches"
   weight = 3
 
 [[main]]
@@ -53,4 +53,4 @@
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 70
+#    weight = 10
