@@ -14,7 +14,7 @@ image:
 ---
 
 -   **Dec. 27, 2019 - Jan. 27, 2020**
-    Xuemin is preparing the test of operational research at home.
+    Xuemin is preparing for the test of operational research at home.
 
 -   **Dec. 24, 2019**:
     Xuemin created the unique academic website!
