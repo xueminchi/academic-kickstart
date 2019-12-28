@@ -18,7 +18,7 @@ organizations:
   url: "http://www.zju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a M.D. majoring vehicle engineering.
+bio: I'm a Ph.D student majoring vehicle engineering.
 
 interests:
 - Self-driving cars
