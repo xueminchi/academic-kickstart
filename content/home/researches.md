@@ -26,8 +26,8 @@ subtitle = ""
       tag = "*"
   
    [[content.filter_button]]
-     name = "Servo Tensile Test"
-     tag = "Servo Tensile Test"
+     name = "Neural Networks"
+     tag = "Neural Networks"
   
    [[content.filter_button]]
      name = "Self-driving Cars"
