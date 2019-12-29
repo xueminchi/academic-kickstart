@@ -2,7 +2,7 @@
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
-date = "2016-04-20T00:00:00"
+date = "2019-12-29T00:00:00"
 draft = false
 
 title = "Skills"
@@ -15,10 +15,9 @@ weight = 61
 +++
 __Language skills__
 
-+ *Native*: [English](http://www-01.sil.org/iso639-3/documentation.asp?id=eng)
-+ *Near-native fluency*: [German](http://www-01.sil.org/iso639-3/documentation.asp?id=deu)
-+ *Basic reading knowledge*: [Dutch](http://www-01.sil.org/iso639-3/documentation.asp?id=nld), [Middle High German](http://www-01.sil.org/iso639-3/documentation.asp?id=gmh), [Swiss German](http://www-01.sil.org/iso639-3/documentation.asp?id=gsw), [Spanish](http://www-01.sil.org/iso639-3/documentation.asp?id=spa)
-+ *Some knowledge*: [Mandarin](http://www-01.sil.org/iso639-3/documentation.asp?id=cmn), [Nepali](http://www-01.sil.org/iso639-3/documentation.asp?id=nep), [Koine Greek](http://www-01.sil.org/iso639-3/documentation.asp?id=grc), [Hausa](http://www-01.sil.org/iso639-3/documentation.asp?id=hau)
++ *Native*: [Chinese](https://iso639-3.sil.org/code/zho)
++ *Near-native fluency*: [English](https://iso639-3.sil.org/code/eng)
++ *Some knowledge*: [German](https://iso639-3.sil.org/code/deu), [Japanese](https://iso639-3.sil.org/code/jpn)
 
 ---
 __Digital tools__
@@ -30,9 +29,9 @@ _Lesser experience with_: [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/), [Pra
 ---
 __Strategy games__
 
-[Settlers of Catan](https://boardgamegeek.com/boardgame/13/catan), [Carcassonne](https://boardgamegeek.com/boardgame/822/carcassonne)
+[Warcraft](https://dz.blizzard.cn/), [League of Legends](https://lol.qq.com/act/a20191216demacia/index.shtml?e_code=500410&idataid=294614)
 
 ---
 __Non-digital art mediums__
 
-Woodworking, Canvas (Painting, Melted Crayons), Sketching
+Singing, photography
