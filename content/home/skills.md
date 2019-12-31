@@ -22,9 +22,11 @@ __Language skills__
 ---
 __Digital tools__
 
-[WordPess](https://www.wordpress.org), [Drupal](https://www.drupal.org/), [Hugo](https://gohugo.io/), Github, Google Apps, Facebook Groups, Facebook Pages, [MailChimp](https://mailchimp.com/), [Omnigraffle](https://www.omnigroup.com/omnigraffle/), [Confluence](https://www.atlassian.com/software/confluence), MediaWiki, [FLEx](http://software.sil.org/fieldworks/), [XLingPaper](http://software.sil.org/xlingpaper/), [Atom](https://atom.io/), [Lightroom](https://lightroom.adobe.com/), [Endnote](http://endnote.com/), [Zotero](https://www.zotero.org/), Linux (Ubuntu), OS X/MacOS 10.6-10.12, Markdown, HTML, [Bash](https://www.gnu.org/software/bash/)
++ *Simulation*: [Matlab](https://www.mathworks.com/), [Carsim](https://www.carsim.com/), [Ansys](https://www.ansys.com/), [Abaqus](https://www.3ds.com/products-services/simulia/?wockw=SIMULIA)
++ *2D/3D Modelling*: [Catia](https://www.3ds.com/zh/products-services/),
++ *Others*: [Originlab](https://www.originlab.com/), [Git], github, [mendeley](https://www.mendeley.com/newsfeed), Microsoft Office
 
-_Lesser experience with_: [ELAN](https://tla.mpi.nl/tools/tla-tools/elan/), [Praat](http://www.fon.hum.uva.nl/praat/), [Audacity](http://www.audacityteam.org/), [WeSay](http://software.sil.org/wesay/), [SayMore](http://software.sil.org/saymore/), [Bloom](http://bloomlibrary.org/), CSS, Python, php, MySQL, XML, Microsoft Office, [LibreOffice](https://www.libreoffice.org/), Pro Tools, FinalCut Pro.
+_Lesser experience with_: [Hugo](https://gohugo.io/), [Atom](https://atom.io/)
 
 ---
 __Strategy games__
