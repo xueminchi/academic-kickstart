@@ -23,8 +23,8 @@ __Language skills__
 __Digital tools__
 
 + *Simulation*: [Matlab](https://www.mathworks.com/), [Carsim](https://www.carsim.com/), [Ansys](https://www.ansys.com/), [Abaqus](https://www.3ds.com/products-services/simulia/?wockw=SIMULIA)
-+ *2D/3D Modelling*: [Catia](https://www.3ds.com/zh/products-services/),
-+ *Others*: [Originlab](https://www.originlab.com/), [Git], github, [mendeley](https://www.mendeley.com/newsfeed), Microsoft Office
++ *Modelling*: [Catia](https://www.3ds.com/zh/products-services/),
++ *Others*: [Originlab](https://www.originlab.com/), [Git](https://git-scm.com/), github, [mendeley](https://www.mendeley.com/newsfeed), Microsoft Office
 
 _Lesser experience with_: [Hugo](https://gohugo.io/), [Atom](https://atom.io/)
 
