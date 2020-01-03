@@ -28,9 +28,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Control Science and Engineering
-    institution: Zhejiang University
-    year: 2020
   - course: MEng in Vehicle Engineering
     institution: Dalian University of Technology
     year: 2017
