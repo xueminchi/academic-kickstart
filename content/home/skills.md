@@ -29,7 +29,7 @@ __Digital tools__
 _Lesser experience with_: [Hugo](https://gohugo.io/), [Atom](https://atom.io/)
 
 ---
-__Computer lagunages__
+__Programming__
 
-Matlab, python, C++, java
+Matlab, python, C++, java, C, LaTeX
 
