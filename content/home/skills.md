@@ -29,11 +29,7 @@ __Digital tools__
 _Lesser experience with_: [Hugo](https://gohugo.io/), [Atom](https://atom.io/)
 
 ---
-__Strategy games__
+__Computer lagunages__
 
-[Warcraft](https://dz.blizzard.cn/), [League of Legends](https://lol.qq.com/act/a20191216demacia/index.shtml?e_code=500410&idataid=294614)
+Matlab, python, C++, java
 
----
-__Non-digital art mediums__
-
-Singing, photography
