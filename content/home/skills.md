@@ -20,7 +20,7 @@ __Language skills__
 + *Some knowledge*: [German](https://iso639-3.sil.org/code/deu), [Japanese](https://iso639-3.sil.org/code/jpn)
 
 ---
-__Digital tools__
+__Engineering tools__
 
 + *Simulation*: [Matlab](https://www.mathworks.com/), [Carsim](https://www.carsim.com/), [Ansys](https://www.ansys.com/), [Abaqus](https://www.3ds.com/products-services/simulia/?wockw=SIMULIA)
 + *Modelling*: [Catia](https://www.3ds.com/zh/products-services/),
@@ -31,5 +31,5 @@ _Lesser experience with_: [Hugo](https://gohugo.io/), [Atom](https://atom.io/)
 ---
 __Programming__
 
-Matlab, python, C++, java, C, LaTeX
+Matlab, python, C++, julia, LaTeX
 
