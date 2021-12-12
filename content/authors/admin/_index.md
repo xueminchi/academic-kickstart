@@ -69,7 +69,7 @@ email: ""
 # - Visitors
 ---
 
-Welcome to Xuemin Chi's academic website! I am currently a PhD student in Control science and engineering at [Zhejiang University](http://www.zju.edu.cn/). I have received Master degree from [Dalian University of Technology](http://www.dlut.edu.cn) in 2019.
+Welcome to Xuemin Chi's academic website! I am currently a PhD candidate in Control science and engineering at [Zhejiang University](http://www.zju.edu.cn/). I have received Master degree from [Dalian University of Technology](http://www.dlut.edu.cn) in 2019.
 
-I am passion about contributing to a further understanding of algorithms of path planning and following of self-driving cars and control strategies of adaptive and robust control.
+I am passion about contributing to a further understanding of algorithms of path planning and following of self-driving cars and control strategies of MPC and robust control.
 
