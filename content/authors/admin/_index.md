@@ -18,13 +18,14 @@ organizations:
   url: "http://www.zju.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Ph.D student majoring vehicle engineering.
+bio: I'm a PhD candidate majoring in Control Science and Engineering.
 
 interests:
 - Self-driving cars
-- Model predictive control
-- Adaptive control and robust control
-- Path planning and following
+- Motion Planning(Path Planning and Trajectory Planning)
+- Model Predictive Control
+- Reinforcement Learning
+- Heuristic Search
 
 education:
   courses:
@@ -42,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:chixuemin@mail.dlut.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:chixuemin@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
