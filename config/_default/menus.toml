@@ -14,8 +14,8 @@
   weight = 2
 
 [[main]]
-  name = "Researches"
-  url = "#researches"
+  name = "Research"
+  url = "#research"
   weight = 3
 
 [[main]]
@@ -33,25 +33,25 @@
   url = "#resources"
   weight = 6
 
-[[main]]
-  name = "Services"
-  url = "#services"
-  weight = 7
+#[[main]]
+#  name = "Services"
+#  url = "#services"
+#  weight = 7
 
-[[main]]
-  name = "Awards"
-  url = "#awards"
-  weight = 8
+#[[main]]
+#  name = "Awards"
+#  url = "#awards"
+#  weight = 8
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 9
 
-[[main]]
-  name = "Skills"
-  url = "#skills"
-  weight = 7.1
+#[[main]]
+#  name = "Skills"
+#  url = "#skills"
+#  weight = 7.1
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
