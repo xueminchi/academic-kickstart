@@ -23,10 +23,10 @@
   url = "#publications_featured"
   weight = 4
 
-#[[main]]
-#  name = "Talks"
-#  url = "#talks"
-#  weight = 5
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 5
 
 [[main]]
   name = "Resources"
